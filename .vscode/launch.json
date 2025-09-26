@@ -11,5 +11,12 @@
             "program": "/workspace/epfl_doe_python_exercises/src/epfl_doe_python_exercises/01_exercise.py",
             "console": "integratedTerminal"
         },
+        {
+            "name": "Python Debugger: Exercise 02",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "/workspace/epfl_doe_python_exercises/src/epfl_doe_python_exercises/02_exercise.py",
+            "console": "integratedTerminal"
+        },
     ]
 }
